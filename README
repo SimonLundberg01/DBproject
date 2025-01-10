@@ -1,0 +1,10 @@
+db.py is just a file for connecting to db
+
+main.py is the test file for exploration and testing
+
+query.py is the file with the different queries, functions and procedures
+
+table.py is the file where tables are created and where data is inserted.
+
+To download the libraries used the following
+pip install mysql-connector-python
